@@ -8,7 +8,7 @@ notifications:
 node_js:
   - node
 script:
-  - npm run test && npm run build
+  - npm run build
 after_success:
   - npm run semantic-release
 branches:
