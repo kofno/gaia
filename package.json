@@ -1,5 +1,5 @@
 {
-  "name": "gaia",
+  "name": "@kofno/gaia",
   "version": "0.0.0-development",
   "description": "Safely read values from your environment",
   "main": "index.js",
